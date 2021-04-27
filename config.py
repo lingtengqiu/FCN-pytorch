@@ -3,7 +3,7 @@
 
 # **********************************************************
 # * Author        : lingteng qiu
-# * Email         : 1259738366@qq.com
+# * Email         : 
 # * Create time   : 2018-08-13 09:41
 # * Last modified : 2018-08-13 10:02
 # * Filename      : config.py
