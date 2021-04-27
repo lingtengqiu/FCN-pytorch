@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 # **********************************************************
 # * Author        : lingteng qiu
-# * Email         : 1259738366@qq.com
+# * Email         :
 # * Create time   : 2018-08-16 16:40
 # * Last modified : 2018-08-16 16:40
 # * Filename      : main.py
