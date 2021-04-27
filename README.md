@@ -7,4 +7,4 @@ best important thing in here is the learning rate you must set 1e-6,decay by 10 
 all the optim you can set in config.py .<br>
 python main.py train for train your dataset .<br>
 python main.py test for test the image ,and save output in resuls files.<br>
-if you have question ,email me 1259738366@qq.com .<br>  
+if you have question.<br>  
